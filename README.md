@@ -530,10 +530,3 @@ This project is developed as an assignment and is for educational/evaluation pur
 
 ---
 
-## Contact & Support
-
-For questions or issues, please refer to the assignment submission portal.
-
----
-
-**Built with** ❤️ **using React, TypeScript, and Supabase**
